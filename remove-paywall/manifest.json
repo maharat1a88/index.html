@@ -1,0 +1,21 @@
+{
+  "name": "Remove Paywall",
+  "short_name": "Remove Paywall",
+  "description": "Batch remove paywalls from news articles",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071225",
+  "theme_color": "#5dd6c8",
+  "icons": [
+    {
+      "src": "https://maharat1a88.github.io/flow-st8/remove-paywall/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://maharat1a88.github.io/flow-st8/remove-paywall/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
